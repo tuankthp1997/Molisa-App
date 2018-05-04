@@ -8,9 +8,9 @@
 
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ittsolution.molisaapp"
+      "bundleIdentifier": "com.gdnn.molisa"
     },
     "android": {
-      "package": "com.ittsolution.molisaapp"
+      "package": "com.gdnn.molisa"
     }
 }
