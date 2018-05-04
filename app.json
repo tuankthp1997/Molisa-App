@@ -1,0 +1,16 @@
+{
+  "name": "MolisaApp",
+  "displayName": "Chọn Trường Chọn Nghề",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ittsolution.molisaapp"
+    },
+    "android": {
+      "package": "com.ittsolution.molisaapp"
+    }
+}
